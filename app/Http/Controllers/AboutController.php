@@ -6,7 +6,7 @@ use Illuminate\Http\Request;
 
 class AboutController extends Controller
 {
-    public function index()
+    public function about()
     {
         echo 'Muhammad Lazuardi Timur (2041720114)';
     }
